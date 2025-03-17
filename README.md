@@ -1,4 +1,9 @@
 # Kích hoạt Office 365 Mondo
+
+QR ngân hàng nếu quí khách có lòng hảo tâm, ủng hộ người soạn cà phê ạ!
+
+![image](https://github.com/user-attachments/assets/b9a751b6-0832-4876-a972-aeaec635d792)
+
 ## DOWNLOAD VÀ CÀI ĐẶT OFFICE 365 MONDO
 - Cách 1:
   - Download Office Tool Plus từ [trang chủ](https://otp.landian.vip/en-us/download.html) hoặc bấm vào đây để download [32bit](https://download.coolhub.top/Office_Tool_Plus/10.21.25.0/Office_Tool_with_runtime_v10.21.25.0_x86.zip); [64bit](https://download.coolhub.top/Office_Tool_Plus/10.21.25.0/Office_Tool_with_runtime_v10.21.25.0_x64.zip) xong, run Office Tool Plus
