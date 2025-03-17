@@ -42,7 +42,7 @@
   ```
 
 ## TẠO GIA HẠN KÍCH HOẠT (AUTO RENEW)
-  - Quý vị dùng KMS từ 5.3 trở lên, Run nó lên, chọn 1 để kích hoạt vĩnh viễn, chọn 2 để tạo Auto Renew.
+  - Quý vị dùng KMS từ 5.3 trở lên từ [trang chủ](https://github.com/abbodi1406/KMS_VL_ALL_AIO/releases), Run nó lên, chọn 1 để kích hoạt vĩnh viễn, chọn 2 để tạo Auto Renew.
   - Hoặc mở **cmd** bằng quyền **Run as Administrator** rồi copy đoạn mã sau dán vào và đánh **Enter**
     
     ```php
