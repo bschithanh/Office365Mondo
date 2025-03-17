@@ -21,7 +21,6 @@
   cscript //nologo ospp.vbs /setprt:1688
   cscript //nologo ospp.vbs /sethst:192.168.2.81.2.7.0
   cscript //nologo ospp.vbs /inpkey:HFTND-W9MK4-8B7MJ-B6C4G-XQBR2
-  cscript ospp.vbs /act
   :end
   :notsupported
   :halt
