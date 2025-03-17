@@ -11,8 +11,8 @@
   - ![image](https://github.com/user-attachments/assets/736f938d-fc0c-4137-8e93-bac5f38ffe46)
   - Chờ tí là xong!
 - Cách 2:
-
-
+  - Bạn có thể download và cài đặt một **Office 16 prolus** bất kì, sau đó **Active như bên dưới là được.
+  - **Office 16** tức: Office 2016, 2019, 2021, 2024, 365.
 
 ## KÍCH HOẠT OFFICE 365 MONDO 180 ngày.
 - Bạn run **cmd** bằng quyền **Run as Administrator** sau đó copy đoạn code sau đây dán vào là xong!
