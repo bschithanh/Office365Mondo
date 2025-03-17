@@ -1,5 +1,19 @@
 # Kích hoạt Office 365 Mondo
 ## DOWNLOAD VÀ CÀI ĐẶT OFFICE 365 MONDO
+- Cách 1:
+  - Download Office Tool Plus từ [trang chủ](https://otp.landian.vip/en-us/download.html) hoặc bấm vào đây để download [32bit](); [64bit]() xong, run Office Tool Plus
+  - ![image](https://github.com/user-attachments/assets/f1fb9c85-3ade-45ff-8813-2ef7ef67f5c1)
+  - Vô **triển khai** và **Add products**.
+  - ![image](https://github.com/user-attachments/assets/831b541a-d7ca-47a8-be56-264bf366ed4b)
+  - ![image](https://github.com/user-attachments/assets/d8c5be96-79e7-4964-a74d-8312fe9c6819)
+  - Bạn cũng có thể tùy chọn cài đặt.
+  - Bấm **Bắt đầu triển khai** là sẽ bắt đầu quá trình cài đặt online.
+  - ![image](https://github.com/user-attachments/assets/736f938d-fc0c-4137-8e93-bac5f38ffe46)
+  - Chờ tí là xong!
+- Cách 2:
+
+
+
 ## KÍCH HOẠT OFFICE 365 MONDO 180 ngày.
 - Bạn run **cmd** bằng quyền **Run as Administrator** sau đó copy đoạn code sau đây dán vào là xong!
 
