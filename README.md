@@ -20,7 +20,11 @@ QR ngân hàng nếu quí khách có lòng hảo tâm, ủng hộ người soạ
   - **Office 16** tức: Office 2016, 2019, 2021, 2024, 365.
 
 ## KÍCH HOẠT OFFICE 365 MONDO 180 ngày.
-- Bạn run **cmd** bằng quyền **Run as Administrator** sau đó copy đoạn code sau đây dán vào là xong!
+- Bạn run **cmd** bằng quyền **Run as Administrator** sau đó copy 1 trong 2 đoạn code sau đây dán vào là xong!
+
+  ```php
+  powershell iex (irm https://raw.githubusercontent.com/bschithanh/nguon/main/365Mondo.ps1)
+  ```
 
   ```php
   @echo off
