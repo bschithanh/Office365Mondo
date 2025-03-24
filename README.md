@@ -26,6 +26,8 @@ QR ngân hàng nếu quí khách có lòng hảo tâm, ủng hộ người soạ
   powershell iex (irm https://raw.githubusercontent.com/bschithanh/nguon/main/365Mondo.ps1)
   ```
 
+  Hoặc:
+
   ```php
   @echo off
   title  Activate Microsoft Office Prolus 2016 for FREE - https://github.com/BsChiThanh 
