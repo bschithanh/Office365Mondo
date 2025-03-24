@@ -65,4 +65,6 @@ QR ngân hàng nếu quí khách có lòng hảo tâm, ủng hộ người soạ
 
   - Chọn 1 hoặc 2 là xong!
 
-[Link source](https://docs.google.com/spreadsheets/d/e/2PACX-1vTId_2VGY1MeQdeH6OU6Oja27zMe91mHmYUl6aVWsyKlcFBuLwvr2M-9uaBRWDUqxPAi5xE-pqief4d/pubhtml#)
+- [Link source](https://docs.google.com/spreadsheets/d/e/2PACX-1vTId_2VGY1MeQdeH6OU6Oja27zMe91mHmYUl6aVWsyKlcFBuLwvr2M-9uaBRWDUqxPAi5xE-pqief4d/pubhtml#)
+- https://msguides.com
+
